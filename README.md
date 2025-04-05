@@ -15,7 +15,7 @@ Equipe:
 Kayky Brabo -
 Gabriel Araujo -
 Samira Eduarda -
-Gabriel Reis -
+Gabriel Reis
 
 ---
 
