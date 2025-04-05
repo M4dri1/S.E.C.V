@@ -12,10 +12,11 @@ O sistema ajuda a evitar desperdícios, melhorar o controle de produtos e garant
 
 Equipe:
 
-Kayky Brabo -
 Gabriel Araujo -
-Samira Eduarda -
-Gabriel Reis
+Gabriel Reis -
+Kayky Brabo -
+Samira Eduarda 
+
 
 ---
 
