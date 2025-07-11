@@ -1,23 +1,23 @@
-Sistema de Organização de Saldo e Estoque de Cantinas
+Cafeteria Balance and Inventory Management System
 
-Este projeto tem como objetivo auxiliar no controle de estoque de uma cantinas escolares. Através do sistema, é possível:
+This project aims to assist in the inventory control of school cafeterias. Through the system, it is possible to:
 
-- Cadastrar produtos com validade
-- Registrar entradas (compras/recebimentos)
-- Registrar saídas (vendas/consumo)
-- Calcular automaticamente o saldo em estoque
-- Gerar alertas sobre produtos próximos do vencimento
+  Register products with expiration dates
 
-O sistema ajuda a evitar desperdícios, melhorar o controle de produtos e garantir que os itens sejam utilizados antes do vencimento.
+  Record entries (purchases/receipts)
+  
+  Record exits (sales/consumption)
 
-Equipe:
+  Automatically calculate stock balance
 
-Gabriel Araujo -
-Gabriel Reis -
-Kayky Brabo -
-Samira Eduarda 
+  Generate alerts for products nearing expiration
 
+The system helps prevent waste, improve product control, and ensure items are used before their expiration date.
+
+Team:
+
+Gabriel Araujo – Gabriel Reis – Kayky Brabo – Samira Eduarda
 
 ---
 
-Projeto desenvolvido para fins acadêmicos.
+Project developed for academic purposes.
