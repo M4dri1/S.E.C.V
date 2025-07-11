@@ -2,6 +2,9 @@ Cafeteria Balance and Inventory Management System
 
 This project aims to assist in the inventory control of school cafeterias. Through the system, it is possible to:
 
+
+
+
   Register products with expiration dates
 
   Record entries (purchases/receipts)
@@ -11,6 +14,9 @@ This project aims to assist in the inventory control of school cafeterias. Throu
   Automatically calculate stock balance
 
   Generate alerts for products nearing expiration
+
+
+          
 
 The system helps prevent waste, improve product control, and ensure items are used before their expiration date.
 
